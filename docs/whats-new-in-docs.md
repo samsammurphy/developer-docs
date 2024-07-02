@@ -9,6 +9,11 @@ hide_table_of_contents: false
 
 Key updates to this documentation.
 
+## 03 July 2024
+
+- Release notes for [Mainnet 1.2.3](./chain-rel-notes#mainnet-123) are published.
+- Release notes for [Bittensor 7.3.0](./bittensor-rel-notes#release-730) are published.
+
 ## 26 June 2024
 
 - Release notes for [Testnet 1.2.1-pre-release](./chain-rel-notes.md#testnet-121-pre-release) are published.
